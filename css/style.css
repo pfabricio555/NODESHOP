@@ -12,3 +12,8 @@ p{font-size: 1em; color:#777;}
 .cabecalho form {width: 30%; float: right;}
 .cabecalho input[type="text"]{width: 85%; float: left; padding: 15px 10px;}
 .cabecalho button {width: 15%; float: right; padding: 15px 10px; background-color: #0cae98; color: #fff;}
+/* MENU */
+.menu{width: 100%; float: left; background-color: #111; padding: 18px 8%;}
+.menu li {float: left;}
+.menu li a{color: #9d9d9d; margin-right: 25px;}
+.menu li a:hover{color:#fff;}
